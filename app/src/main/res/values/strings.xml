@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4.0</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="abt_alc">ABOUT ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="slack">@shafique</string>
+    <string name="profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="home">ALC 4 Phase 1</string>
+
+
+</resources>
